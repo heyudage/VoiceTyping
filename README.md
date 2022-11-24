@@ -21,5 +21,8 @@
 ### 二、客户端
 #### 启动命令
 `python main.py`
+#### 打包二进制文件
+入口文件main.py，根据需要可改变命令。
+`pyinstaller -F -w main.py`
 
 ### TODO
