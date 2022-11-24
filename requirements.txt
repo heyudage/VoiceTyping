@@ -1,0 +1,7 @@
+pyqt5
+websockets
+pyaudio
+numpy
+pyperclip
+pywin32
+paddlespeech
