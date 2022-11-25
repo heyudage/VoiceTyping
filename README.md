@@ -1,5 +1,6 @@
 ## 语音输入（VoiceTyping）
 通过语音（说话）即可完成实时文本输入。通过[PaddleSpeech项目二次开发](https://github.com/PaddlePaddle/PaddleNLP) 完成，支持离线脱网环境部署，支持GPU推理，目前客户端仅支持Windows。
+![演示GIF](example.gif)
 
 ### 一、环境部署安装
 #### 1.安装PaddleSpeech
